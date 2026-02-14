@@ -3,8 +3,7 @@ I created NerdCodeLab to exercise my free will and test my amazing coding skills
 
 
 ```
-
-pm install
+npm install
 npm run dev
 ```
 

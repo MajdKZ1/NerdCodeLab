@@ -1,0 +1,35 @@
+# ai generated git ignore file
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+.vite/
+
+# Environment & secrets
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs & cache
+*.log
+npm-debug.log*
+.cache/
+.temp/
+tmp/
+
+# Optional: uncomment to also ignore lock file (not recommended for apps)
+# package-lock.json
